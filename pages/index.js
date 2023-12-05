@@ -80,14 +80,17 @@ export default function Home() {
             based off socratica.
           </a>{" "}
           |{" "}
-          <a target="_blank" href="https://neelr.dev">
-            me! (the organizer :o)
+          <a target="_blank" href="https://github.com/neelr/hackinla">
+           source
           </a>{" "}
           |{" "}
           <a target="_blank" href="https://linktr.ee/uclamakerspace">
             partnered w/ the makerspace @ ucla
           </a>
         </i>
+      </p>
+      <p>
+        <i>made w/ {"<"}3 by <a href="https://neelr.dev" target="_blank">@neelr</a></i>
       </p>
     </div>
   );
